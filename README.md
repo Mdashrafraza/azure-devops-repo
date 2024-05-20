@@ -1,1 +1,1 @@
-# azure-devops-repo for interview perpration
+# azure-devops-repo for interview Q&A
